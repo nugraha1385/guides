@@ -1,2 +1,1 @@
-# guides
-learn and share
+All content in Wiki tabs
